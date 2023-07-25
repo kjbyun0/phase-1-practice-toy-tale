@@ -100,19 +100,4 @@ frmAddToy.addEventListener('submit', e => {
   e.target.reset();
 });
 
-// "name": "Jessie",
-// "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
-// "likes": 0
-
-// fetch('http://localhost:3000/toys/9', {
-//   method: 'DELETE',
-//   headers: {
-//     'Content-Type': 'application/json',
-//     'Accept': 'applicatioin/json',
-//   }
-// })
-// .then(resp => resp.json())
-// .then(data => console.log(data))
-// .catch(error => console.log(error));
-
 
